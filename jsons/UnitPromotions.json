@@ -1,7 +1,7 @@
 [
 {
 		"name": "Uber Power",
-		"uniques": ["May enter foreign tiles without open borders", "Ignores Zone of Control", "Ignores terrain cost", "[4] additional attacks per turn", "[9] Range", "May withdraw before melee ([100]%)", "Can see invisible [All] units", "Invisible to others", "May capture killed [All] units", "Can enter ice tiles", "Can move after attacking", "Can move immediately once bought", "No movement cost to pillage"
+		"uniques": ["May enter foreign tiles without open borders", "Ignores Zone of Control", "Ignores terrain cost", "[4] additional attacks per turn", "[9] Range", "May withdraw before melee ([100]%)", "Can see invisible [All] units", "Invisible to others", "May capture killed [All] units", "Can enter ice tiles", "Can move after attacking", "Can move immediately once bought", "No movement cost to pillage"]
 		"unitTypes": ["All"]
 },
 ]
