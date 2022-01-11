@@ -1,8 +1,9 @@
 [
   {
-		"name": "Merc Band",
+		"name": "Hack Land Merc Band",
 		"unitType": "Scout",
-    "movement": 5,
+                "uniqueTo": "Hack Land",
+	        "movement": 5,
 		"strength": 55,
 		"cost": 5,
 		"uniques": ["[100]% chance to intercept air attacks", "Can build [Land] improvements on tiles", "Founds a new city", "Never appears as a Barbarian unit","Can move immediately once bought", "Can move after attacking", "Can hurry technology research"],
