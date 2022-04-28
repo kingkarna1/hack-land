@@ -3,10 +3,10 @@
 		"name": "Mod Land Merc Band",
 		"unitType": "Scout",
                 "uniqueTo": "Mod Land",
-	        "movement": 5,
-		"strength": 55,
-		"cost": 5,
-		"uniques": ["[100]% chance to intercept air attacks", "Can build [Land] improvements on tiles", "Founds a new city", "Never appears as a Barbarian unit","Can move immediately once bought", "Can move after attacking", "Can hurry technology research"],
-		"cost": 70
+	        "movement": 10,
+		"strength": 999,
+		"range": 10,
+		"cost": 1,
+		"uniques": ["May enter foreign tiles without open borders", "Uncapturable", "Ranged attacks may be performed over obstacles", "May attack when embarked", "Can enter ice tiles", "[100]% chance to intercept air attacks", "Can build [Land] improvements on tiles", "Founds a new city", "Never appears as a Barbarian unit","Can move immediately once bought", "Can move after attacking", "Can hurry technology research"],
 	}
   ]
