@@ -1,0 +1,9 @@
+[
+ {
+		"name": "Mod Land Defensive District",
+		"uniqueTo": "Mod Land",
+		"cityStrength": 100,
+		"cityHealth": 100,
+		"uniques": ["Destroyed when the city is captured", "Unbuildable", "Will not be displayed in Civilopedia", "New [Military] units start with [100] Experience [in this city]"]
+	},
+  ]
