@@ -20,9 +20,16 @@
 
 "uniques": [
 //normal// 
+//growth//
 "[+1000 Gold, +1000 Production, +1000 Science, +1000 Food, +1000 Culture, +1000 Faith, +1000 Happiness] per [1] population [in all cities]", 
 "[+100]% [Gold] [Food] [Science]      [Faith] [Culture] [Production] [in all cities]",
-
+"Quantity of strategic resources produced by the empire +[200000]%", 
+"[+1000]% Golden Age length",
+"[+1000]% growth [in all cities]", 
+"[10] Happiness from each type of luxury resource", 
+//cost reduction//
+"[-1000]% tile improvement construction time", 
+"[-1000]% Unhappiness from [Population] [in all cities]",
 "No Maintenance costs for improvements in [All] tiles", 
 "[-1000]% maintenance costs <for [All] units>", 
 "[-1000]% maintenance on road & railroads",
@@ -32,36 +39,28 @@
 "[Gold] cost of purchasing [All] buildings [-1000]%",
 "May buy [All] buildings for [0] [Culture] [in all cities]", 
 "May buy [All] units for [0] [Culture] [in all cities]", 
-
+"[-1000]% Culture cost of adopting new Policies",
+//city states//
+"Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.", 
 "City-State territory always counts as friendly territory",
 "[1000]% resources gifted by City-States", 
 "[-1000]% City-State Influence degradation", 
 "Resting point for Influence with City-States is increased by [1000]",
-
+"Influence of all other civilizations with all city-states degrades [1000]% faster", 
+"Gifts of Gold to City-States generate [1000]% more Influence",
+//other//
+"Enables conversion of city production to [Gold]", 
+"May not generate great prophet equivalents naturally", 
+"\"Borrows\" city names from other civilizations in the game",
+//religion//
+"[+100]% Natural religion spread [in all cities]", 
+"May choose [2] additional belief(s) of any type when [founding] a religion", "May choose [2] additional belief(s) of any type when [enhancing] a religion"
+//war//
+"Units fight as though they were at full strength even when damaged", 
+"Enables [All] units to enter ocean tiles", 
+"Units ending their turn on [All] tiles take [-100] damage"
 "[1] Movement point cost to disembark", "[1] Movement point cost to embark",
 "Military Units gifted from City-States start with [200000] XP", 
 "New [All] units start with [200000] Experience [in all cities]", 
-"No movement cost to pillage", 
-
-"Enables conversion of city production to [Gold]",  
-"[-1000]% Culture cost of adopting new Policies", 
-"[+1000]% Golden Age length",  
- 
-"May not generate great prophet equivalents naturally", 
-"[+1000]% growth [in all cities]", 
-  
-"[10] Happiness from each type of luxury resource", 
-
- "Cities are razed [1000] times as fast", "Influence of all other civilizations with all city-states degrades [1000]% faster", 
-"Gifts of Gold to City-States generate [1000]% more Influence", 
-"[-1000]% tile improvement construction time", 
-"Quantity of strategic resources produced by the empire +[200000]%", 
-"[-1000]% Unhappiness from [Population] [in all cities]", 
-"[+100]% Natural religion spread [in all cities]", 
-"Units fight as though they were at full strength even when damaged", 
-"\"Borrows\" city names from other civilizations in the game", 
-"Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.", 
-"Enables [All] units to enter ocean tiles", 
-"May choose [2] additional belief(s) of any type when [founding] a religion", "May choose [2] additional belief(s) of any type when [enhancing] a religion", "Units ending their turn on [All] tiles take [-100] damage"] 
- }, 
- ]
+"No movement cost to pillage",
+] }, ]
