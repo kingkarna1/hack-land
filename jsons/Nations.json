@@ -14,8 +14,8 @@
 		"hateHello": "oh..you, tell me what you want",
 		"tradeRequest": "It appears that you have a gigabyte of interest",
 		"cities": ["Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"],
-		"outerColor": [237,0,0],
-		"innerColor": [12,250,12], 
+		"outerColor": [0,0,100],
+		"innerColor": [0,255,0], 
 		"uniqueName": "The way of the Hack Lords",
 
 "uniques": [
