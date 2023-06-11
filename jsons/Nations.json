@@ -1,24 +1,24 @@
-[
-	{
-		"name": "Mod Land",
-	 "leaderName": "the Spiritron Hacker",
-		"adjective": ["Otaku", "Weeb"],
-          "startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "hax, hax, HAX",
-		"declaringWar": "get rekd!",
-		"attacked": "THES IS SPARt... i mean Hack Land",
-		"defeated": "oh well, i guess ill make some more QAnon...",
-		"introduction": "how much code does it make to make you?",
-		"neutralHello": "yo",
-		"hateHello": "oh..you, tell me what you want",
-		"tradeRequest": "It appears that you have a gigabyte of interest",
-		"cities": ["Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"],
-		"outerColor": [0,0,100],
-		"innerColor": [0,255,0], 
-		"uniqueName": "The way of the Hack Lords",
-
+[ {
+"name": "Mod Land",
+"leaderName": "the Spiritron Hacker",
+"adjective": ["Otaku", "Weeb"],
+"startBias": ["Coast"],
+"preferredVictoryType": "Diplomatic",
+"startIntroPart1": "hax, hax, HAX",
+"declaringWar": "get rekd!",
+"attacked": "THES IS SPARt... i mean Hack Land",
+"defeated": "oh well, i guess ill make some more QAnon...",
+"introduction": "how much code does it make to make you?",
+"neutralHello": "yo",
+"hateHello": "oh..you, tell me what you want",
+"tradeRequest": "It appears that you have a gigabyte of interest",
+"cities": ["Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"],
+"outerColor": [0,0,100],
+"innerColor": [0,255,0], 
+"uniqueName": "The way of the Hack Lords",
 "uniques": [
+
+
 //normal// 
 //growth//
 "[+10000 Gold, +10000 Production, +10000 Science, +10000 Food, +10000 Culture, +10000 Faith, +10000 Happiness] per [1] population [in all cities]", 
@@ -64,4 +64,6 @@
 "New [All] units start with [200000] Experience [in all cities]", 
 "No movement cost to pillage",
 "[+20] Sight <for [All] units>", 
+
+
 ] }, ]
