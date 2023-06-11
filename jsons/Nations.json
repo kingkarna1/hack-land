@@ -21,7 +21,7 @@
 "uniques": [
 //normal// 
 //growth//
-"[+1000 Gold, +1000 Production, +1000 Science, +1000 Food, +1000 Culture, +1000 Faith, +1000 Happiness] per [1] population [in all cities]", 
+"[+10000 Gold, +10000 Production, +10000 Science, +10000 Food, +10000 Culture, +10000 Faith, +10000 Happiness] per [1] population [in all cities]", 
 "[+100]% [Gold] [Food] [Science]      [Faith] [Culture] [Production] [in all cities]",
 "Quantity of strategic resources produced by the empire +[200000]%", 
 "[+1000]% Golden Age length",
@@ -63,5 +63,5 @@
 "Military Units gifted from City-States start with [200000] XP", 
 "New [All] units start with [200000] Experience [in all cities]", 
 "No movement cost to pillage",
-"[+10] Sight <for [All] units>", 
+"[+20] Sight <for [All] units>", 
 ] }, ]
