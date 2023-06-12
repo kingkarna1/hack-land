@@ -1,22 +1,7 @@
 
 [ 
 
-{ "name": "1st Hack Land Ability", 
-"uniques": [
-"May Paradrop up to [3] tiles from inside friendly territory"
-"Can perform Air Sweep"
-"Normal vision when embarked", 
-"May attack when embarked", 
-"Can see over obstacles", 
-"May enter foreign tiles without open borders", 
-"Ranged attacks may be performed over obstacles", 
-"Can enter ice tiles", 
-"[10]% chance to intercept air attacks", "Can move immediately once bought", 
-"Can move after attacking", 
-"Unit will heal every turn, even if it performs an action",  
-"No movement cost to pillage",
-"All tiles cost 1 movement", 
-"Can pass through impassable tiles" ] }, 
+{ "name": "1st Hack Land Ability", "uniques": [ "May Paradrop up to [3] tiles from inside friendly territory", "Can perform Air Sweep", "Normal vision when embarked", "May attack when embarked", "Can see over obstacles", "May enter foreign tiles without open borders", "Ranged attacks may be performed over obstacles", "Can enter ice tiles", "[10]% chance to intercept air attacks", "Can move immediately once bought", "Can move after attacking", "Unit will heal every turn, even if it performs an action", "No movement cost to pillage", "All tiles cost 1 movement", "Can pass through impassable tiles" ] }, 
 
 
 { "name": "2nd Hack Land Ability", 
