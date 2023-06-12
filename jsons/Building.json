@@ -1,0 +1,33 @@
+[ {
+
+
+{
+
+	"name": "Mod Land Military Power",		
+  "isWonder": true,
+
+		"uniqueTo": "Mod Land",
+
+		"food": 1,
+
+		"cost": 1,
+
+		"uniques": [
+
+			"[10]% Food is carried over after population increases [in this city]",
+
+			"Provides [2] [Weapons]",
+
+			"Free [Guerilla] appears",
+
+			"Can only be built [in capital]",
+
+			"Gain a free [Deep Larder] [in this city]"
+
+		],
+
+		"quote": "An armed society is a polite society.",
+
+		"civilopediaText": [{ "text": "An armed society is a polite society." }]
+
+	},
