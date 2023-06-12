@@ -1,12 +1,12 @@
 [
 
-{ "name": "Hax For Everyone!", "priorities": { "Neutral": 1000, "Cultural": 1000, "Diplomatic": 1000, "Domination": 1000, "Scientific": 1000 }, "uniques": [ "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] [in capital]", "[-10]% Culture cost of natural border growth [in all cities]" ],
+{ "name": "Hax For Everyone!", "priorities": { "Neutral": 10, "Cultural": 10, "Diplomatic": 10, "Domination": 10, "Scientific": 10 }, "uniques": [ "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] [in capital]", "[-10]% Culture cost of natural border growth [in all cities]" ],
 
 "policies": [
 
 { "name": "Buy Any Unit", "uniques": [ "May buy [All] units with [Culture] for [3] times their normal Production cost", "May buy [All] units with [Faith] for [3] times their normal Production cost" ], "row": 1, "column": 1 },
 
-//{ "name": "Buy Any Building", "uniques": [ "May buy [All] buildings with [Culture] for [3] times their normal Production cost", "May buy [All] buildings lwith [Faith] for [3] times their normal Production cost" ], "row": 1, "column": 3 },
+{ "name": "Buy Any Building", "uniques": [ "May buy [All] buildings with [Culture] for [3] times their normal Production cost", "May buy [All] buildings lwith [Faith] for [3] times their normal Production cost" ], "row": 1, "column": 3 },
 
 { "name": "Convert To Anything", "uniques": [ "Enables conversion of city production to [Gold]" ], "row": 1, "column": 2 },
 
