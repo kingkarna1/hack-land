@@ -17,10 +17,7 @@
 "outerColor": [0,0,100],
 "innerColor": [0,255,0], 
 "uniqueName": "The way of the Hack Lords",
-"uniques": [
-//normal// 
-//growth//
-"[+10000 Gold, +10000 Production, +10000 Science, +10000 Food, +10000 Culture, +10000 Faith, +10000 Happiness] per [1] population [in all cities]", 
+"uniques": [ //normal// //growth// "[+10000 Gold, +10000 Production, +10000 Science, +10000 Food, +10000 Culture, +10000 Faith, +10000 Happiness] per [1] population [in all cities]", 
 "[+100]% [Gold] [Food] [Science]      [Faith] [Culture] [Production] [in all cities]",
 "Quantity of strategic resources produced by the empire +[200000]%", 
 "[+1000]% Golden Age length",
@@ -63,6 +60,6 @@
 "New [All] units start with [200000] Experience [in all cities]", 
 "No movement cost to pillage",
 "[+20] Sight <for [All] units>", 
-"All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion", ] },
+"All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion", ] }
  
 ]
