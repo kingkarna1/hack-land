@@ -15,14 +15,12 @@
 "uniques": [ "May buy [All] buildings with [Culture] for [3] times their normal Production cost", "May buy [All] buildings lwith [Faith] for [3] times their normal Production cost", ],
 "row": 1, "column": 3 },
 
-			{
-				"name": "Differential Rationing",
-				"uniques": [
+{ "name": "Convert To Anything",
+"uniques": [
 					"[-50]% Food consumption by specialists [in all cities]"
 				],
-				"row": 1,
-				"column": 5
-			},
+"row": 1, "column": 2 },
+
 			{
 				"name": "Planned Economy",
 				"uniques": [
