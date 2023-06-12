@@ -18,7 +18,7 @@
 { "name": "Convert To Anything",
 "uniques": [ "Enables conversion of city production to [Food] "
 
-//"Enables conversion of city production to [Gold//] // [Science] [Food] [Culture] [Faith] [Happiness]"// 	
+//"Enables conversion of city production to // [Gold] // [Science] [Food] [Culture] [Faith] [Happiness]"// 	
 
 ],
 "row": 1, "column": 2 },
