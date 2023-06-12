@@ -15,12 +15,9 @@
 "uniques": [ "May buy [All] buildings with [Culture] for [3] times their normal Production cost", "May buy [All] buildings lwith [Faith] for [3] times their normal Production cost" ],
 "row": 1, "column": 3 },
 
-//{ "name": "Convert To Anything",
-//"uniques": [ "Enables conversion of city production to [Gold]" ], 
-
-//"Enables conversion of city production to // [Gold] // [Science] [Culture] [Faith] [Happiness]"// 	
-
-//"row": 1, "column": 2 },
+{ "name": "Convert To Anything",
+"uniques": [ "Enables conversion of city production to [Gold]" ], 
+"row": 1, "column": 2 },
 
 { "name": "tempname1",
 "uniques": [ "[+25]% growth [in all cities]", "[+33]% [Production] from every [Council]" ],
@@ -34,6 +31,8 @@
 
 { "name": "Hax For Everyone! Complete",
 "uniques": [ "[+100]% growth [in all cities]", "[+10 Food] [in all cities]" ] }
+
+] 
 } 
 
 ] 
