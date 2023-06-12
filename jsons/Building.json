@@ -1,18 +1,15 @@
-[ {
+[
 
-
-{
-"name": "Mod Land Military Power",		
+{ "name": "Mod Land Military Power",		
 "isWonder": true,
 "uniqueTo": "Mod Land",
 "food": 1,
 "cost": 1,
 "uniques": [
 "When defeating a [All] unit, earn [1000] Gold and recruit it",  
-"All newly-trained [All] units [in all cities] receive the [Hack Land Ability] promotion",  
+"All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion",  
 "[5] Movement",   
 "[+1000]% Strength <vs [All] units>", "[+5] Range",  
-"[5] additional attacks per turn", "Defense bonus when embarked <for [All] units>", 
+"[5] additional attacks per turn", "Defense bonus when embarked <for [All] units>", ] }, 
 
-
-] }, ]
+]
