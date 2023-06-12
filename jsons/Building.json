@@ -1,11 +1,11 @@
 [
 
-{ "name": "Mod Land Military Power",		
-"isWonder": true,
+{ "name": "Mod Land Military Power",	
 "uniqueTo": "Mod Land",
 "food": 1,
 "cost": 1,
 "uniques": [
+"Can only be built [in capital]",
 "When defeating a [All] unit, earn [1000] Gold and recruit it",  
 "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion",  
 "[5] Movement",   
