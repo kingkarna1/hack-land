@@ -1,5 +1,6 @@
-[ {
-"name": "Mod Land",
+[ 
+
+{ "name": "Mod Land",
 "leaderName": "the Spiritron Hacker",
 "adjective": ["Otaku", "Weeb"],
 "startBias": ["Coast"],
@@ -17,8 +18,6 @@
 "innerColor": [0,255,0], 
 "uniqueName": "The way of the Hack Lords",
 "uniques": [
-
-
 //normal// 
 //growth//
 "[+10000 Gold, +10000 Production, +10000 Science, +10000 Food, +10000 Culture, +10000 Faith, +10000 Happiness] per [1] population [in all cities]", 
@@ -63,7 +62,6 @@
 "Military Units gifted from City-States start with [200000] XP", 
 "New [All] units start with [200000] Experience [in all cities]", 
 "No movement cost to pillage",
-"[+20] Sight <for [All] units>", 
-
-
-] }, ]
+"[+20] Sight <for [All] units>", ] },
+ 
+]
