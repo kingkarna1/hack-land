@@ -1,20 +1,16 @@
 [
 { "name": "Hax For Everyone!",
 "priorities": { "Neutral": 1000, "Cultural": 1000, "Diplomatic": 1000, "Domination": 1000, "Scientific": 1000 },
-"uniques": [ "[+1 Culture] [in capital]",
+"uniques": [ "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] [in capital]",
 "[-10]% Culture cost of natural border growth [in all cities]" ],
-
-		"policies": [
-			{
-				"name": "Castle Doctrine",
-				"uniques": [
+"policies": [
+{ "name": "Buy Anything",
+"uniques": [
 					"[+25]% City Strength from defensive buildings",
 					"[+50]% Strength for cities <with a garrison> <when attacking>",
 					"[+1 Happiness] [in all cities with a garrison]"
 				],
-				"row": 1,
-				"column": 1
-			},
+				"row": 1, "column": 1 },
 			{
 				"name": "Centralization",
 				"uniques": [
