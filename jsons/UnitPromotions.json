@@ -8,10 +8,6 @@
 "uniques": [
 "Blast radius [1]", 
 "May capture killed [All] units", 
-"Uncapturable",  
-"[100]% chance to intercept air attacks", 
-"[2] additional attacks per turn", 
-"Invisible to others", 
-"Can pass through impassable tiles" ] }
+"Uncapturable", "[100]% chance to intercept air attacks", "[2] additional attacks per turn", "Invisible to others", "Can pass through impassable tiles" ] }
 
 ]
