@@ -1,8 +1,7 @@
 [
 
 { "name": "Hax For Everyone!",
-"priorities": { "Neutral": 1000, "Cultural": 1000, "Diplomatic": 1000, "Domination": 1000, "Scientific": 1000 },
-"uniques": [ "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] [in capital]", "[-10]% Culture cost of natural border growth [in all cities]" ],
+"priorities": { "Neutral": 1000, "Cultural": 1000, "Diplomatic": 1000, "Domination": 1000, "Scientific": 1000 }, "uniques": [ "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] [in capital]", "[-10]% Culture cost of natural border growth [in all cities]" ],
 
 "policies": [
 
@@ -16,8 +15,7 @@
 
 { "name": "tempname2", "uniques": [ "[+1 Gold, +1 Happiness] per [2] population [in capital]" ], "requires": ["Buy Any Building"], "row": 2, "column": 3 },
 
-{ "name": "Hax For Everyone! Complete",
-"uniques": [ "[+100]% growth [in all cities]", "[+10 Food] [in all cities]" ] }
+{ "name": "Hax For Everyone! Complete", "uniques": [ "[+100]% growth [in all cities]", "[+10 Food] [in all cities]" ] }
 
 ] 
 } 
