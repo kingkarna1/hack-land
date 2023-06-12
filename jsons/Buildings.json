@@ -2,9 +2,8 @@
   
 { "name": "Mod Land Military Hack",      "uniqueTo": "Mod Land", "cost": 1, "isWonder": true, "uniques": [ "Can only be built [in capital]", "When defeating a [All] unit, earn [1000] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion", "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[5] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
 
+{ "name": "Hax For Everyone!", "isNationalWonder": true, "uniques": [ "Can only be built [in capital]", "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] [in all cities]", "Enables conversion of city production to [Gold]" ] } 
 
-
-
-{ "name": "Hax For Everyone!", "isWonder": true, "uniques": [ "Can only be built [in capital]", "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] [in capital]", "[-10]% Culture cost of natural border growth [in all cities]", "May buy [All] units with [Culture] for [3] times their normal Production cost", "May buy [All] units with [Faith] for [3] times their normal Production cost", "May buy [All] buildings with [Culture] for [3] times their normal Production cost", "May buy [All] buildings lwith [Faith] for [3] times their normal Production cost", "Enables conversion of city production to [Gold]" ] } 
+//"May buy [All] units with [Culture] for [3] times their normal Production cost", "May buy [All] units with [Faith] for [3] times their normal Production cost", "May buy [All] buildings with [Culture] for [3] times their normal Production cost", "May buy [All] buildings lwith [Faith] for [3] times their normal Production cost", 
   
  ] 
