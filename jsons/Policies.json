@@ -1,1 +1,66 @@
+[
+{ "name": "Hax For Everyone!",
+"priorities": { "Neutral": 1000, "Cultural": 1000, "Diplomatic": 1000, "Domination": 1000, "Scientific": 1000 },
+"uniques": [ "[+1 Culture] [in capital]",
+"[-10]% Culture cost of natural border growth [in all cities]" ],
 
+		"policies": [
+			{
+				"name": "Castle Doctrine",
+				"uniques": [
+					"[+25]% City Strength from defensive buildings",
+					"[+50]% Strength for cities <with a garrison> <when attacking>",
+					"[+1 Happiness] [in all cities with a garrison]"
+				],
+				"row": 1,
+				"column": 1
+			},
+			{
+				"name": "Centralization",
+				"uniques": [
+					"[+10]% growth [in capital]",
+					"[+2 Food] [in capital]"
+				],
+				"row": 1,
+				"column": 3
+			},
+			{
+				"name": "Differential Rationing",
+				"uniques": [
+					"[-50]% Food consumption by specialists [in all cities]"
+				],
+				"row": 1,
+				"column": 5
+			},
+			{
+				"name": "Planned Economy",
+				"uniques": [
+					"[+25]% growth [in all cities]",
+					"[+33]% [Production] from every [Council]"
+				],
+				"requires": ["Castle Doctrine", "Centralization"],
+				"row": 2,
+				"column": 2
+			},
+			{
+				"name": "Parallel Markets",
+				"uniques": [
+					"[+1 Gold, +1 Happiness] per [2] population [in capital]"
+				],
+				"requires": ["Centralization", "Differential Rationing"],
+				"row": 2,
+				"column": 4
+			},
+
+			{
+				"name": "Adaptation Complete",
+				"uniques": [
+					"[+10]% growth [in all cities]",
+					"[+2 Food] [in all cities]",
+					"Provides a [Walls] in your first [4] cities for free",
+					"Provides a [Defensive Emplacements] in your first [4] cities for free"
+				]
+			}
+		]
+	}
+] 
