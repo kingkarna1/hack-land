@@ -16,7 +16,7 @@
 "Unit will heal every turn, even if it performs an action",  
 "No movement cost to pillage",
 "All tiles cost 1 movement", 
-"Can pass through impassable tiles" ], }, 
+"Can pass through impassable tiles" ] }, 
 
 
 { "name": "2nd Hack Land Ability", 
@@ -27,6 +27,6 @@
 "[100]% chance to intercept air attacks", 
 "[2] additional attacks per turn", 
 "Invisible to others", 
-"Can pass through impassable tiles" ], }, 
+"Can pass through impassable tiles" ] }
 
 ]
