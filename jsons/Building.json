@@ -8,11 +8,11 @@
 "food": 1,
 "cost": 1,
 "uniques": [
-"[10]% Food is carried over after population increases [in this city]",
-"Provides [2] [Weapons]",
-"Free [Guerilla] appears",
-"Can only be built [in capital]",
-"Gain a free [Deep Larder] [in this city]"
+"When defeating a [All] unit, earn [1000] Gold and recruit it",  
+"All newly-trained [All] units [in all cities] receive the [Hack Land Ability] promotion",  
+"[5] Movement",   
+"[+1000]% Strength <vs [All] units>", "[+5] Range",  
+"[5] additional attacks per turn", "Defense bonus when embarked <for [All] units>", 
 
 
 ] }, ]
