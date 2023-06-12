@@ -16,40 +16,20 @@
 "row": 1, "column": 3 },
 
 { "name": "Convert To Anything",
-"uniques": [
-					"[-50]% Food consumption by specialists [in all cities]"
-				],
+"uniques": [ "Enables conversion of city production to [Gold] [Science] [Food] [Culture] [Faith] [Happiness]" 	],
 "row": 1, "column": 2 },
 
-			{
-				"name": "Planned Economy",
-				"uniques": [
-					"[+25]% growth [in all cities]",
-					"[+33]% [Production] from every [Council]"
-				],
-				"requires": ["Castle Doctrine", "Centralization"],
-				"row": 2,
-				"column": 2
-			},
-			{
-				"name": "Parallel Markets",
-				"uniques": [
-					"[+1 Gold, +1 Happiness] per [2] population [in capital]"
-				],
-				"requires": ["Centralization", "Differential Rationing"],
-				"row": 2,
-				"column": 4
-			},
+{ "name": "Planned Economy",
+"uniques": [ "[+25]% growth [in all cities]", "[+33]% [Production] from every [Council]" ],
+"requires": ["Buy Any Unit"],
+"row": 2, "column": 1 },
 
-			{
-				"name": "Adaptation Complete",
-				"uniques": [
-					"[+10]% growth [in all cities]",
-					"[+2 Food] [in all cities]",
-					"Provides a [Walls] in your first [4] cities for free",
-					"Provides a [Defensive Emplacements] in your first [4] cities for free"
-				]
-			}
-		]
-	}
-] 
+{ "name": "Parallel Markets",
+"uniques": [ "[+1 Gold, +1 Happiness] per [2] population [in capital]" ],
+"requires": ["Buy Any Building"],
+"row": 2, "column": 3 },
+
+{ "name": "Hax For Everyone! Complete",
+"uniques": [ "[+100]% growth [in all cities]", "[+10 Food] [in all cities]", ] }
+
+] } ] 
