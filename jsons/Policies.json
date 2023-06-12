@@ -22,7 +22,7 @@
 
 //"row": 1, "column": 2 },
 
-{ "name": "tempname1",
+{ "name": "tempname1a",
 "uniques": [ "[+25]% growth [in all cities]", "[+33]% [Production] from every [Council]" ],
 "requires": ["Buy Any Unit"],
 "row": 2, "column": 1 },
