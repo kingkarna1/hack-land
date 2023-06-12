@@ -62,6 +62,7 @@
 "Military Units gifted from City-States start with [200000] XP", 
 "New [All] units start with [200000] Experience [in all cities]", 
 "No movement cost to pillage",
-"[+20] Sight <for [All] units>", ] },
+"[+20] Sight <for [All] units>", 
+"All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion", ] },
  
 ]
