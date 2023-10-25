@@ -1,3 +1,7 @@
 [
-{ "name": "Super Cheat Worker", "unitType": "Civilian", "movement": 2, "strength": 100, "rangedStrength": 100, "attackSound": "arrow", "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Founds a new city", "Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "May create improvements on water resources", "Uncapturable" ], "cost": 100 }
+{ "name": "Super Cheat Worker", "unitType": "Civilian", "movement": 2, "attackSound": "arrow", "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "May create improvements on water resources", "Uncapturable" ], "cost": 100 }
+
+{ "name": "Super Cheat Settler", "unitType": "Civilian", "movement": 2, "attackSound": "arrow", "uniques": ["Founds a new city", "Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable" ], "cost": 100 }
+
+{ "name": "Super Cheat Warrior", "unitType": "Ranged", "movement": 2, "strength": 100, "rangedStrength": 100, "attackSound": "arrow", "uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable" ], "cost": 100 }
 ]
