@@ -12,7 +12,7 @@
 
 { "name": "Hack Land Military Hack 2", "cost": 0, "uniques": [ "Limited to [1] per Civilization", "Only available <for [Human player] Civilizations>", "Destroyed when the city is captured", "Can only be built [in capital]",  "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion", "[+1000]% Strength <vs [All] units>" ] } 
 
-{ "name": "Hack Land Military Hack 1", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged",   "Military Units gifted from City-States start with [200000] XP", "New [All] units start with [200000] Experience [in all cities]",  "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] } 
+{ "name": "Hack Land Military Hack 1", "cost": 0, "uniques": [ "Limited to [1] per Civilization", "Only available <for [Human player] Civilizations>", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged",   "Military Units gifted from City-States start with [200000] XP", "New [All] units start with [200000] Experience [in all cities]",  "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] } 
 
 { "name": "Hack Land City-States Hack", "cost": 0, "uniques": [ "Limited to [1] per Civilization", "Only available <for [Human player] Civilizations>", "Destroyed when the city is captured", "Can only be built [in capital]", "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.", "City-State territory always counts as friendly territory", "[1000]% resources gifted by City-States", "[-1000]% City-State Influence degradation", "Resting point for Influence with City-States is increased by [1000]", "Influence of all other civilizations with all city-states degrades [1000]% faster", "Gifts of Gold to City-States generate [1000]% more Influence" ] } 
 
@@ -26,7 +26,7 @@
 
 { "name": "Hack Land Food Hack", "cost": 0, "uniques": [ "Limited to [1] per Civilization", "Only available <for [Human player] Civilizations>", "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Food] per [1] population [in all cities]", "[+1000000]% [Food] [in all cities]", "[+1000]% growth [in all cities]" ] }
 
-{ "name": "Hack Land Science Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Science] per [1] population [in all cities]", "[+1000000]% [Science] [in all cities]" ] }
+{ "name": "Hack Land Science Hack", "cost": 0, "uniques": [ "Limited to [1] per Civilization", "Only available <for [Human player] Civilizations>", "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Science] per [1] population [in all cities]", "[+1000000]% [Science] [in all cities]" ] }
 
 { "name": "Hack Land Production Hack", "cost": 0, "uniques": [ "Limited to [1] per Civilization", "Only available <for [Human player] Civilizations>", "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+1000000]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[200000]%", "[-1000]% tile improvement construction time" ] }
   
