@@ -1,0 +1,10 @@
+{
+  "name": "Hack Land",
+  "description": "Adds new uniques and mechanics.",
+  "author": "King Karna",
+  "version": "1.2.0",
+  "minGameVersion": "4.8.0",
+  "modUrl": "https://github.com/YourUsername/MyUncivMod",
+  "dependencies": [],
+  "updateUrl": "https://github.com/YourUsername/MyUncivMod/archive/refs/heads/main.zip"
+}
