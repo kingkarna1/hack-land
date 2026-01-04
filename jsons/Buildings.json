@@ -1,7 +1,10 @@
 [ 
 
-{ "name": "Hack Land Military Movement Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization",  "Destroyed when the city is captured", "[5] Movement", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Enables [All] units to enter ocean tiles", "No movement cost to pillage" ] } 
+{ "name": "Hack Land Military Movement Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization",  "Destroyed when the city is captured", "[5] Movement" ] } 
 
+{ "name": "Hack Land Military Amphibious Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization",  "Destroyed when the city is captured", "[0] Movement point cost to disembark", "[0] Movement point cost to embark", "Enables [All] units to enter ocean tiles", "No movement cost to pillage" ] } 
+
+{ "name": "Hack Land Military Raider Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization",  "Destroyed when the city is captured", "No movement cost to pillage" ] } 
 
 { "name": "Hack Land Resource Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization",  "Destroyed when the city is captured", "[+1000]% [Strategic] resource production" ] }
 
